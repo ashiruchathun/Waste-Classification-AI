@@ -1,0 +1,38 @@
+{
+    "main": {
+        "0": "Hazardous",
+        "1": "Non-Recyclable",
+        "2": "Organic",
+        "3": "Recyclable"
+    },
+
+    "hazardous": {
+        "0": "batteries",
+        "1": "e-waste",
+        "2": "paints",
+        "3": "pesticides"
+    },
+
+    "organic": {
+        "0": "coffee_tea_bags",
+        "1": "egg_shells",
+        "2": "food_scraps",
+        "3": "kitchen_waste",
+        "4": "yard_trimmings"
+    },
+
+    "recyclable": {
+        "0": "cans_all_type",
+        "1": "glass_containers",
+        "2": "paper_products",
+        "3": "plastic_bottles"
+    },
+
+    "non_recyclable": {
+        "0": "ceramic_product",
+        "1": "diapers",
+        "2": "platics_bags_wrappers",
+        "3": "sanitary_napkin",
+        "4": "stroform_product"
+    }
+}
